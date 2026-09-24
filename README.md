@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Karem+Saad!" alt="Karem Saad" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Odeesha+Oshan!" alt="Odeesha Oshan" /></a>
     </h1>
 <h3 align="center"> Backend Developer 👨‍💻| Software Engineer 🌐🛠️ </h3>
 
@@ -41,8 +41,8 @@ I continuously challenge myself to learn new technologies, improve my problem-so
 
 <h3 align="left">let's get in touch :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karem-saad-881081225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karem saad" height="30" width="40" /></a>
-<a href="https://instagram.com/karem.sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karem.sd" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/odisha-oshan-rajapaksha-09b41423a " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karem saad" height="30" width="40" /></a>
+<a href="https://www.instagram.com/odishaoshan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karem.sd" height="30" width="40" /></a>
 </p>
 <!-- <h3 align="left">My Resume : <a href="https://odeeshaoshan.github.io/portfolio/" target="blank"><img align="center" src="cv1.gif" alt="karem saad" height="50" width="50" /></a></h3> -->
 
@@ -50,7 +50,7 @@ I continuously challenge myself to learn new technologies, improve my problem-so
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,laravel,firebase,bootstrap,html,css,vscode,figma,git,js,postman,cs,php,mysql,postgres,github,gitlab,vscode,visualstudio,windows,aws,react,linux,vercel,bitbucket" alt="Skills and tools" />
+    <img src="https://skillicons.dev/icons?i=flutter,html,css,vscode,figma,git,js,postman,cs,mysql,github,visualstudio,windows,aws,react,linux" alt="Skills and tools" />
 </p>
 
 <hr>
