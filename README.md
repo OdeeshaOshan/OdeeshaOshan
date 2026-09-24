@@ -17,17 +17,25 @@
 <details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
 
 
-**`Hi, I am Karem Saad. I have a Diploma in Software Engineering from the Technical Computer College at Damascus University, and I am in my second year of Information Technology Engineering at the Syrian Virtual University. Currently, I am in my third year of diving into the world of programming and software engineering.
-Throughout this journey, I have discovered many great concepts such as OOP, SOLID principles, generics with abstract classes, unit testing, and UML. I apply these concepts to every language I work with, including C#, Dart, PHP, and Python.
-In my last experience with a large project, I recognized the importance of implementing design patterns for scalability and maintainability. This led me to delve deeper into methodologies like Model-View-Controller (MVC) and the Repository Pattern. My goal is always to provide the best experience for my clients or the team I work with.
-Lately, I have been focusing on frameworks such as Flutter and Laravel to elevate my skills in both. Additionally, I utilize tools such as Git to enhance my workflow. I am committed to continually learning and improving in my field.
+**`Hi, I’m Odeesha Oshan, a Software Engineering undergraduate currently pursuing a BSc (Hons) in Software Engineering at SLTC Research University in Sri Lanka. I’m currently in my third year, with a strong interest in backend development, artificial intelligence, and building reliable software systems.
+
+Throughout my studies and personal projects, I have developed a solid understanding of software engineering fundamentals, including Object-Oriented Programming, software architecture, databases, REST APIs, software quality assurance, virtualization, containerization, and Git-based development workflows. I enjoy understanding how systems work internally and applying these concepts to build practical and maintainable applications.
+
+I have worked with technologies including Java, Spring Boot, React, TypeScript, Python, MySQL, Docker, and Git. Through university projects and independent development, I have gained experience working across both backend and frontend components, designing RESTful APIs, integrating databases, implementing authentication, and developing modular software systems.
+
+One of my major projects is AgriSense AI, a farm management platform designed to help manage areas such as farmers, crops, inventory, weather information, and agricultural operations. Working on this project has given me practical experience with Spring Boot, MySQL, React, API integration, authentication, Docker, and software quality practices.
+
+I am also increasingly interested in Artificial Intelligence and AI-powered software development. My goal is to combine strong software engineering fundamentals with AI technologies to build useful, scalable, and reliable applications rather than treating AI as an isolated technology.
+
+I continuously challenge myself to learn new technologies, improve my problem-solving abilities, and understand the engineering principles behind the systems I build. My long-term goal is to grow into a strong software engineer and AI-focused developer capable of designing, building, and maintaining real-world software systems.
+
 `**
 
 </details>
 <hr>
-- 🌱 I’m currently learning **Flutter and Laravel Development**
+- 🌱 I’m currently learning **React and Springboot Development**
 
-- 📫 How to reach me **saad.karem8642@gmail.com**
+- 📫 How to reach me **odishaoshan6@gmail.com**
 
 - ⚡ Fun fact **Always Want To Learn More 📚 .**
 
@@ -36,7 +44,7 @@ Lately, I have been focusing on frameworks such as Flutter and Laravel to elevat
 <a href="https://linkedin.com/in/karem-saad-881081225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karem saad" height="30" width="40" /></a>
 <a href="https://instagram.com/karem.sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karem.sd" height="30" width="40" /></a>
 </p>
-<!-- <h3 align="left">My Resume : <a href="https://beige-meggy-67.tiiny.site" target="blank"><img align="center" src="cv1.gif" alt="karem saad" height="50" width="50" /></a></h3> -->
+<!-- <h3 align="left">My Resume : <a href="https://odeeshaoshan.github.io/portfolio/" target="blank"><img align="center" src="cv1.gif" alt="karem saad" height="50" width="50" /></a></h3> -->
 
 
 <hr>
@@ -48,8 +56,8 @@ Lately, I have been focusing on frameworks such as Flutter and Laravel to elevat
 <hr>
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <p align="center">
-    <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KaremSD&layout=compact&theme=radical" alt="KaremSD top languages" />
-    <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=KaremSD&show_icons=true&theme=radical" alt="KaremSD GitHub stats" />
+    <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=OdeeshaOshan&layout=compact&theme=radical" alt="KaremSD top languages" />
+    <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=OdeeshaOshan&show_icons=true&theme=radical" alt="KaremSD GitHub stats" />
 </p>
 
 
